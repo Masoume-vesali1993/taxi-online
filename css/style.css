@@ -1,6 +1,6 @@
 #all-menu{
     background-image: url(../img/menu.png);
-    background-size: 1537px 274px;
+    background-size: 1537px 191px;
     background-repeat: no-repeat;
     height: 271px;
 }
@@ -9,12 +9,19 @@
     width: 153px;
     float: left;
     border-radius: 36px;
-    margin-top: 13px;
-    padding: 5px 2px 7px 18px;
+    margin-top: 9px;
+    padding: 1px 0 4px 0;
     font-size: 11px;
     text-align: center;
 }
 #part-one{
-    padding: 10px 0;
-    margin-right: 86px;
+    padding: 7px 0;
+}
+#part-one h6{
+    font-size: 13px;
+}
+#main-menu{
+    position: absolute;
+    bottom: 352px;
+    right: 502px;
 }

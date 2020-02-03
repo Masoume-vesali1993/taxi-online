@@ -21,7 +21,7 @@
     font-size: 13px;
 }
 #main-menu{
-    position: absolute;
-    bottom: 352px;
-    right: 502px;
+    position: relative;
+    bottom: 209px;
+    padding-right: 455px;
 }

@@ -126,10 +126,15 @@
 }
 #text__center{
     background-color: #fde100;
+    width: 400px;
 }
 #bg-part{
     background-color: #474d53;
+    padding-top: 20px;
 }
 #bgg-top{
     padding-top: 50px;
+}
+#part-gg{
+    background-color: #fde100;
 }

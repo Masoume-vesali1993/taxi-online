@@ -105,7 +105,16 @@
 #text-app{
     padding: 33px 0;
 }
-#part-one{
+#part-onee{
     height: 100px;
     padding-top: 258px;
+}
+#line-box{
+    border: 1px solid;
+    border-radius: 49px;
+    width: 227px;
+    font-size: 11px;
+}
+.carousel-inner{
+    bottom: 140px;
 }

@@ -165,3 +165,9 @@
 #part-img img{
     padding-top: 80px;
 }
+#bg--cc{
+    background-image: url("../img/web\ sitee2.png");
+    background-repeat: no-repeat;
+    background-size: 1540px;
+    height: 220px;
+}

@@ -154,6 +154,11 @@
     background-color: #eccc2d;
     padding-top: 30px;
 }
+#bg-text a{
+    background: #000;
+    color: #fff;
+    padding: 0 15px 0 15px;
+}
 #box-top{
     padding-top: 40px;
 }

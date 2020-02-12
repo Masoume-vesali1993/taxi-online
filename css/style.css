@@ -50,9 +50,6 @@
     height: 50px;
 }
 /* *************************text */
-#bg-text{
-    background-color: #bdb8a0;
-}
 .text-light {
     color: #f8f9fa!important;
     text-align: center;
@@ -60,7 +57,7 @@
 }
 #text-one{
     text-align: center;
-    padding-top: 30px;
+    padding-top: 65px;
 }
 .img-one img{
     width: 20%;
@@ -121,6 +118,9 @@
 #bg-col{
     background-color: #c9c6c6;
 }
+#bg-col h3{
+    padding-top: 30px;
+}
 #text-sttt{
     padding-bottom: 50px;
 }
@@ -152,7 +152,6 @@
 }
 #bg-text{
     background-color: #bdb8a0;
-    padding:30px 0 30px 0;
 }
 #bg-text a{
     background: #000;
@@ -162,7 +161,7 @@
 #bg-text p{
     border-bottom: 3px solid #bda21a;
     border-width: thick;
-    padding-bottom: 30px;
+    padding-bottom: 10px;
 }
 #box-top{
     padding-top: 40px;

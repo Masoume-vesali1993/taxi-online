@@ -177,7 +177,8 @@
     padding-bottom: 10px;
 }
 #bg-text{
-    /* background-color: #bdb8a0; */
+    background-color: #efce2b;
+    padding: 32px 0 46px 0;
 }
 #bg-text a{
     background: #000;
@@ -191,6 +192,12 @@
 }
 #box-top{
     padding-top: 40px;
+}
+#box-top a{
+    padding: 8px 11px;
+}
+#box-top h2{
+    padding-bottom: 21px;
 }
 #part-img img{
     padding-top: 80px;

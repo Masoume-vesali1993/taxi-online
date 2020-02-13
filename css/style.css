@@ -120,6 +120,8 @@
 }
 #bg-col h3{
     padding-top: 30px;
+    border-bottom: 3px solid #ffda1f;
+    padding-bottom: 14px;
 }
 #text-sttt{
     padding-bottom: 50px;
@@ -127,6 +129,7 @@
 #text__center{
     background-color: #fde100;
     width: 400px;
+    border-radius: 0 100px 0 0;
 }
 #bg-part{
     background-color: #474d53;
@@ -137,6 +140,16 @@
 }
 #part-gg{
     background-color: #fde100;
+    margin-top: -60px;
+}
+#part-hh h5{
+    padding-left: 42px;
+}
+#part-gg p{
+    text-align: center;
+    font-size: 12px;
+    padding: 13px 0;
+    border-bottom: 1px solid #fff;
 }
 #tt-img img{
     border-radius: 75px;
@@ -147,11 +160,15 @@
 #stt-p{
     padding-top: 25px;
 }
+#stt-p h5{
+    border-bottom: 3px solid #ffda1f;
+    padding-bottom: 15px;
+}
 #stt-p h3{
     padding-bottom: 10px;
 }
 #bg-text{
-    background-color: #bdb8a0;
+    /* background-color: #bdb8a0; */
 }
 #bg-text a{
     background: #000;

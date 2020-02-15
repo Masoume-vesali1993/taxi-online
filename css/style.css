@@ -13,12 +13,14 @@
     padding: 1px 0 4px 0;
     font-size: 11px;
     text-align: center;
+    margin-top: 17px;
 }
 #part-one{
     padding: 7px 0;
 }
 #part-one h6{
     font-size: 13px;
+    margin-top: 17px;
 }
 #main-menu{
     position: relative;

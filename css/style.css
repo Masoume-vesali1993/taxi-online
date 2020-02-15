@@ -113,6 +113,7 @@
     font-size: 11px;
 }
 .carousel-inner{
+    position: relative;
     bottom: 140px;
 }
 #bg-col{
@@ -214,9 +215,11 @@
     padding: 14px 9px 14px 9px;
     font-size: 18px;
 }
-/* #bg--cc{
-    background-image: url("../img/web\ sitee2.png");
-    background-repeat: no-repeat;
-    background-size: 1540px;
+.footer{
     height: 220px;
-} */
+    background-color: #4b535a;
+    color: #fff;
+}
+#bg-cc{
+    padding-top: 50px !important;
+}

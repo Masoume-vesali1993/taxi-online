@@ -1,6 +1,6 @@
 #all-menu{
     background-image: url(../img/menu.png);
-    background-size: 1537px 191px;
+    background-size: 1537px 272px;
     background-repeat: no-repeat;
     height: 271px;
 }
@@ -130,7 +130,7 @@
 }
 .carousel-inner{
     position: relative;
-    bottom: 140px;
+    top: 0px;
 }
 #bg-col{
     background-color: #c9c6c6;

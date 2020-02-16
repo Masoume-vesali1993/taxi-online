@@ -20,14 +20,18 @@
 }
 #part-one h6{
     font-size: 13px;
-    margin-top: 17px;
+    margin-top: 8px;
 }
 #main-menu{
     position: relative;
-    bottom: 234px;
-    padding-right: 616px;
+    bottom: 214px;
+    padding-right: 664px;
 }
 /* *************************slider ********************/
+.slider{
+    position: relative;
+    bottom: 59px;
+}
 .carousel .carousel-item {
     width: 100%;
     height: 100vh;
@@ -50,12 +54,11 @@
 .carousel-control-prev-icon, .carousel-control-next-icon {
     width: 50px;
     height: 50px;
-    margin-bottom: 336px;
 }
 .carousel-indicators{
     position: absolute;
     right: 0;
-    bottom: 136px;
+    bottom: 0px;
     left: 0;
     z-index: 15;
     display: -ms-flexbox;
@@ -75,7 +78,6 @@
 }
 #text-one{
     text-align: center;
-    padding-top: 65px;
 }
 .img-one img{
     width: 20%;
@@ -136,11 +138,12 @@
 }
 #bg-col{
     background-color: #c9c6c6;
+    margin-bottom: 30px;
 }
-#bg-col h3{
-    padding-top: 30px;
-    border-bottom: 3px solid #ffda1f;
+#bgg-cl{
+    padding-top: 80px;
     padding-bottom: 14px;
+    border-bottom: 3px solid #ffda1f;
 }
 #text-sttt{
     padding-bottom: 50px;
@@ -195,9 +198,9 @@
 #stt-p h3{
     padding-bottom: 10px;
 }
-#bg-text{
-    background-color: #efce2b;
-    padding: 32px 0 46px 0;
+#box-top{
+    background-color: #dfc338;
+    padding: 27px 0 38px 0;
 }
 #bg-text a{
     background: #000;
@@ -209,9 +212,6 @@
     border-width: thick;
     padding-bottom: 10px;
 }
-#box-top{
-    padding-top: 40px;
-}
 #box-top a{
     padding: 8px 11px;
 }
@@ -222,7 +222,7 @@
     padding-top: 80px;
 }
 #text-cc{
-    padding: 46px 0 35px 0;
+    padding: 46px 0 69px 0;
 }
 #text-cc h2{
     width: 208px;
@@ -240,4 +240,11 @@
 }
 #bg-cc{
     padding-top: 50px !important;
+}
+/* ***************************footer************************* */
+#img-footer{
+    margin-left: 25px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    margin-right: 10px;
 }

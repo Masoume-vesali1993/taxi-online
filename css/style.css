@@ -3,6 +3,28 @@
     height: 386px;
     background-size: 1520px 384px;
 }
+#menu{
+    padding-top: 100px;
+    float: left;
+}
+#menu a{
+    color: #fff;
+}
+#top-menu1 h6{
+    padding-top: 20px;
+}
+#top-menu{
+    padding-top: 20px;
+}
+#top-menu h6{
+    width: 200px;
+    float: left;
+    text-align: center;
+    border: 1px solid #f8efa2;
+    border-radius: 10px;
+    padding: 1px 0 6px 0;
+    background-color: #f8efa2;
+}
 /* #all-menu{
     background-image: url(../img/menu.png);
     background-size: 1537px 272px;

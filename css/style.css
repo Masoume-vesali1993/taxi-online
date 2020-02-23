@@ -1,10 +1,10 @@
-#all-menu{
+/* #all-menu{
     background-image: url(../img/menu.png);
     background-size: 1537px 272px;
     background-repeat: no-repeat;
     height: 271px;
-}
-#part-tow h6{
+} */
+/* #part-tow h6{
     background-color: #f8efa2;
     width: 153px;
     float: left;
@@ -14,19 +14,19 @@
     font-size: 11px;
     text-align: center;
     margin-top: 17px;
-}
-#part-one{
+} */
+/* #part-one{
     padding: 7px 0;
-}
+} */
 #part-one h6{
     font-size: 13px;
     margin-top: 8px;
 }
-#main-menu{
+/* #main-menu{
     position: relative;
     bottom: 214px;
     padding-right: 664px;
-}
+} */
 /* *************************slider ********************/
 .carousel .carousel-item {
     width: 100%;

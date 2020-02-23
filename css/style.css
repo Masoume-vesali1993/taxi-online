@@ -1,3 +1,8 @@
+.header{
+    background-image: url("../img/menu.jpg");
+    height: 386px;
+    background-size: 1520px 384px;
+}
 /* #all-menu{
     background-image: url(../img/menu.png);
     background-size: 1537px 272px;
